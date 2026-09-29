@@ -1,0 +1,11 @@
+streamlit>=1.36
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-chroma>=0.1.4
+langchain-huggingface>=0.1
+langchain-google-genai>=2.0
+sentence-transformers>=3.0
+chromadb>=0.5
+pypdf>=4.0
+python-dotenv>=1.0
+pytest>=8.0
